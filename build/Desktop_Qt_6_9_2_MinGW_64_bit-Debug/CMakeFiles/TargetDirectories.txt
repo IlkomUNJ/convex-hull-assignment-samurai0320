@@ -1,0 +1,9 @@
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/proyek_garis.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/proyek_garis_autogen_timestamp_deps.dir
+C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/proyek_garis_autogen.dir
