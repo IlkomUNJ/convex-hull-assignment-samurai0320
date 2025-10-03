@@ -14,6 +14,9 @@ here are some of the query that i use:
 3. can you fixed the code
 4. jelaskan eror ini
 5. tolong jelaskan algoritma yang ada di gambar diatas
+6. can you fix this slow hull algorithm
+7. can you implement it?
+8. can you apply it to my code
 
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself.
