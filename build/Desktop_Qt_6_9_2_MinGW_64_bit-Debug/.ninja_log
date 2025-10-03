@@ -1,0 +1,73 @@
+# ninja log v5
+47	230	7809467513054109	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+1954	2188	7809467543647640	proyek_garis.exe	8f68887d18c110d3
+47	230	7809467513054109	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+47	230	7809467513054109	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+47	230	7809467513054109	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+756	2949	7809467267871706	CMakeFiles/proyek_garis.dir/proyek_garis_autogen/mocs_compilation.cpp.obj	454e7ab5926ea4f6
+762	2931	7809467267700979	CMakeFiles/proyek_garis.dir/main.cpp.obj	cb4727d22365b067
+242	1954	7809467541359657	CMakeFiles/proyek_garis.dir/mainwindow.cpp.obj	fa94b1bfb2cec083
+771	3136	7809467269746737	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+58	627	7809468853137013	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+58	627	7809468853137013	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+58	627	7809468853137013	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+58	627	7809468853137013	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+631	2224	7809468869780298	CMakeFiles/proyek_garis.dir/main.cpp.obj	cb4727d22365b067
+628	2289	7809468870437017	CMakeFiles/proyek_garis.dir/proyek_garis_autogen/mocs_compilation.cpp.obj	454e7ab5926ea4f6
+634	2331	7809468870825924	CMakeFiles/proyek_garis.dir/mainwindow.cpp.obj	fa94b1bfb2cec083
+639	2565	7809468873177518	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+2565	2785	7809468875330518	proyek_garis.exe	8f68887d18c110d3
+10	178	7809477106284337	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+10	178	7809477106284337	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+10	178	7809477106284337	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+10	178	7809477106284337	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+57	255	7809477304621807	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+57	255	7809477304621807	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+57	255	7809477304621807	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+57	255	7809477304621807	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+45	209	7809477396117018	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+45	209	7809477396117018	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+45	209	7809477396117018	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+45	209	7809477396117018	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+51	234	7809479065563238	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+51	234	7809479065563238	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+51	234	7809479065563238	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+51	234	7809479065563238	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+246	2088	7809479098168150	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+2088	2331	7809479100571633	proyek_garis.exe	8f68887d18c110d3
+56	246	7809480328233208	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+56	246	7809480328233208	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+56	246	7809480328233208	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+56	246	7809480328233208	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+258	1991	7809480360836995	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+1991	2224	7809480363136902	proyek_garis.exe	8f68887d18c110d3
+56	254	7809481164632854	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+56	254	7809481164632854	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+56	254	7809481164632854	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+56	254	7809481164632854	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+265	1972	7809481208746146	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+1972	2191	7809481210900525	proyek_garis.exe	8f68887d18c110d3
+50	237	7809481484809260	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+50	237	7809481484809260	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+50	237	7809481484809260	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+50	237	7809481484809260	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+248	2068	7809481506126535	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+2068	2294	7809481508346084	proyek_garis.exe	8f68887d18c110d3
+54	228	7809481784107373	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+54	228	7809481784107373	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+54	228	7809481784107373	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+54	228	7809481784107373	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+239	1900	7809488153633755	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+1900	2123	7809488155822367	proyek_garis.exe	8f68887d18c110d3
+74	271	7809497502237688	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+74	271	7809497502237688	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+74	271	7809497502237688	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+74	271	7809497502237688	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+281	2488	7809498337637437	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+2488	2751	7809498340239549	proyek_garis.exe	8f68887d18c110d3
+68	252	7809504803917795	proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+68	252	7809504803917795	proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+68	252	7809504803917795	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/timestamp	75ae9a617b27a0cd
+68	252	7809504803917795	C:/Users/Adhitya Wardhana/OneDrive/Documents/proyek_garis/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/proyek_garis_autogen/mocs_compilation.cpp	75ae9a617b27a0cd
+263	2311	7809504841762918	CMakeFiles/proyek_garis.dir/canvas.cpp.obj	c9452131330c3af2
+2312	2566	7809504844269880	proyek_garis.exe	8f68887d18c110d3
