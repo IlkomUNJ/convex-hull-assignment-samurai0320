@@ -21,7 +21,7 @@ here are some of the query that i use:
 # Collaboration usage
 Explain how you are ***using others*** to complete the assignment in this section. Are they simply copying, learn the ideas, learn how to adapt the AI or anything involving the process. State the people if any & Please be elaborate. Declare self tought if you solved this by yourself.
 
-in this assignment i had a couple of friends that help me. first of all deric and ryan help me understand how to use qt, after that deric told me how the algorithm works, i was  still confused then i collaborated with fikri to make the slow and fast hull cobex algorithm.
+in this assignment i had a couple of friends that help me. first of all deric and ryan help me understand how to use qt, after that deric told me how the algorithm works, i was  still confused then i collaborated with fikri to make the slow and fast hull cobex algorithm. All in All its thx to my friend that i manage to complete it
 
 
 
